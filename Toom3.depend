@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589719722 source:c:\users\dejan\desktop\toom3\toom3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1589726389 source:c:\users\dejan\desktop\toom3\toom3\toom3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
